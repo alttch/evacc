@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="app_red">#FC2027</color>
+
+    <color name="app_blue">#19447C</color>
+    <color name="app_blue_1">#00ffff</color>
+    <color name="app_blue_2">#2585d1</color>
+
+    <color name="app_black">#000000</color>
+    <color name="app_black_50">#66000000</color>
+
+    <color name="app_white">#FFFFFF</color>
+    <color name="app_white_40">#66ffffff</color>
+    <color name="app_white_50">#80ffffff</color>
+    <color name="app_white_65">#A6ffffff</color>
+    <color name="app_white_85">#D8ffffff</color>
+
+    <color name="app_s_orange_70">#B2ff6633</color>
+    <color name="app_s_red_70">#B2C00000</color>
+    <color name="app_s_green_70">#B2004B00</color>
+
+    <color name="app_gray_1">#e6e6e6</color>
+    <color name="app_gray_2">#b3b3b3</color>
+    <color name="app_gray_simple">#3f758e9a</color>
+
+    <color name="app_violet_1">#4946bf</color>
+
+</resources>
