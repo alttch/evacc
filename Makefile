@@ -8,3 +8,6 @@ all:
 			-D ${DIR_ME}/evacc_hi \
 			--icon ${DIR_ME}/res/ic_launcher_512.png \
 			--icon-round ${DIR_ME}/res/ic_launcher_512_round.png
+
+clean:
+	rm -rf evacc_hi
